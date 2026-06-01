@@ -24,4 +24,6 @@ This repository showcases the translation of advanced physical phenomena and mat
 
 Notebooks
 
-[Inclined Plane With Lagrange Multipliers](https://nbviewer.org/github/AcxelCalle/computational-physics/blob/main/InclinedPlaneWithLagrangeMultipliers.ipynb)
+* [Inclined Plane With Lagrange Multipliers](https://nbviewer.org/github/AcxelCalle/computational-physics/blob/main/InclinedPlaneWithLagrangeMultipliers.ipynb)
+* [Simple Pendulum Attached To A Wheel](https://nbviewer.org/github/AcxelCalle/computational-physics/blob/main/SimplePendulumAttachedToAWheel.ipynb)
+* [Coiled Rope](https://nbviewer.org/github/AcxelCalle/computational-physics/blob/main/CoiledRope.ipynb)
