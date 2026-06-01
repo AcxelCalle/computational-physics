@@ -1,6 +1,6 @@
 # Computational Physics & Numerical Methods
 
-This repository showcases the translation of advanced physical phenomena and mathematical models into computational simulations using Python. 
+This repository showcases the translation of advanced physical phenomena and mathematical models into computational simulations using Python. At the end of this readme you will find a link to all the rendered notebooks
 
 ## Project Index
 
@@ -19,3 +19,9 @@ This repository showcases the translation of advanced physical phenomena and mat
 ### 4. Classical mechanics systems: Simple, Double, and Linked Pendulum Trajectories
 * **Description:** Simulations of classical mechanics systems, mapping chaotic behavior and phase space trajectories.
 * **Methods:** Solving systems of coupled ordinary differential equations (ODEs) using `scipy.integrate.solve_ivp`.
+
+---
+
+Notebooks
+
+[Inclined Plane With Lagrange Multipliers](https://nbviewer.org/github/AcxelCalle/computational-physics/blob/main/InclinedPlaneWithLagrangeMultipliers.ipynb)
